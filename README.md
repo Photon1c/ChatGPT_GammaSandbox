@@ -5,9 +5,9 @@ This repository aims to serve as a centralized space for the following 3 main co
 
 The main directory structure is as follows:
 
-/jupyter_notebooks - main sandbox space for testing out new scripts.
-      /financialanalysistools - dataframes/charts for option and stock analysis.
-      /crimeprediction_publicsafety - machine learning predictive critical event algorithms.
-      /administrative_task_automation - vba, python task automation for saving time.
+##/jupyter_notebooks - main sandbox space for testing out new scripts.
+      -/financialanalysistools - dataframes/charts for option and stock analysis.
+      -/crimeprediction_publicsafety - machine learning predictive critical event algorithms.
+      -/administrative_task_automation - vba, python task automation for saving time.
       
 The above folders are initial starting points, other subdirectories that will most likely emerge will be input/output paths.
