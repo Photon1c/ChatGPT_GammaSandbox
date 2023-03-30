@@ -1,0 +1,5 @@
+speed_limit,distance_to_junction,visibility,road_condition,accident
+30,50,10,good,0
+50,100,5,poor,1
+60,20,20,moderate,0
+40,70,15,good,1
