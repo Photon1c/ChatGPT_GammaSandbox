@@ -14,8 +14,7 @@ The main directory structure is as follows:
    ### - /administrative_task_automation - vba, python task automation for saving time.
    
 
-# {pipe chains} &
-# {data streams}
+# {pipe chains} & <br> {data streams}
    
       
 The above folders are initial starting points, other subdirectories that will most likely emerge will be input/output paths.
