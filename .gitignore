@@ -12,6 +12,7 @@
 /__pycache__
 /.vs
 /.ipynb_checkpoints
+/temp
 # production
 /build
 
