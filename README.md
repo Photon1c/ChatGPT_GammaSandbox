@@ -15,6 +15,7 @@ The main directory structure is as follows:
    
 
 # {pipe chains} & <br> {data streams}
+To relieve websocket backpressure in this project Javascript may be used to regulate API byte flow.
    
       
 The above folders are initial starting points, other subdirectories that will most likely emerge will be input/output paths.
