@@ -8,7 +8,10 @@
 # testing
 /static
 /coverage
+<<<<<<< HEAD
 /jupyter_notebooks/temp
+=======
+>>>>>>> d57e9eb588f6170e7e5bdaf0c88911f10b8f9692
 /__pycache__
 /.vs
 /.ipynb_checkpoints
