@@ -8,7 +8,6 @@
 # testing
 /static
 /coverage
-/jupyter_notebooks
 /__pycache__
 /.vs
 /.ipynb_checkpoints
