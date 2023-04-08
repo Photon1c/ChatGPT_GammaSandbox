@@ -20,7 +20,7 @@
 /jupyter_notebooks/financialanalysistools/central_banking_projectors/a.env
 /jupyter_notebooks/financialanalysistools/central_banking_projectors/cucumber.txt
 /jupyter_notebooks/financialanalysistools/tensorflow-exercises/a.env
-/jupyter_notebooks/financialanalysistools/tensorflow-exercises/alpaca-secrets.env
+/jupyter_notebooks/financialanalysistools/tensorflow-exercises/secrets-alpaca.env
 .env
 config.py
 in_pdf.pdf
