@@ -14,7 +14,7 @@ The main directory structure is as follows:
    ### - /administrative_task_automation - vba, python task automation for saving time.
    
 
-## {pipe chains} & {data streams}
+## {Pipe Chains} & {Data Streams}
 To relieve websocket backpressure in this project Javascript is recommended to regulate API byte flow, [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json "Newtonsoft.Json") is a great NuGet package for this. Anaconda DataSpell is the recommended program to run the files in this repository.
    
       
