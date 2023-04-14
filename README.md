@@ -14,8 +14,10 @@ The main directory structure is as follows:
    ### - /administrative_task_automation - vba, python task automation for saving time.
    
 
-## {pipe chains} & <br> {data streams}
+## {pipe chains} & {data streams}
 To relieve websocket backpressure in this project Javascript is recommended to regulate API byte flow, [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json "Newtonsoft.Json") is a great NuGet package for this. Anaconda DataSpell is the recommended program to run the files in this repository.
    
       
 The above folders are initial starting points, other subdirectories that will most likely emerge will be input/output paths.
+
+###Additional Disclaimer: The scripts in the notebooks were written mostly by ChatGPT through asking it a series of prompts in formats such as "Write me a python script that...[functions]". Beyond this dozens of debugging runs also improved the code by asking ChatGPT "The following Exception was returne: ['enter exception', traceback line:'enter traceback line' ]. Here is the code: 'feed code as prompt again'. Essentially this is a form of regressive analysis where the script is being called on itself and solved for the variating evolving bugs. A lot of this scripts need more debugging and will be update as time permits.
