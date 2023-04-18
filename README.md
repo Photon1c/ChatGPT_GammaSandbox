@@ -22,6 +22,9 @@ To relieve websocket backpressure in this project Javascript is recommended to r
 Financial:
 
 ![Random Forest of an Option Contract](/sample_outputs/financial/RandomForest1.PNG)
+![Option Pricing Model B](/sample_outputs/financial/ChatGPT-options-price-modeling2.png)
+![Efficient Frontier and the Tangency Portfolio](/sample_outputs/financial/1stAprilTangencyPortfolio.png)
+
       
 The above folders are initial starting points, other subdirectories that will most likely emerge will be input/output paths.
 
