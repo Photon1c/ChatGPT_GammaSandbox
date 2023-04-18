@@ -17,6 +17,11 @@ The main directory structure is as follows:
 ## {Pipe Chains} & {Data Streams}
 To relieve websocket backpressure in this project Javascript is recommended to regulate API byte flow, [Newtonsoft.Json](https://www.nuget.org/packages/Newtonsoft.Json "Newtonsoft.Json") is a great NuGet package for this. Anaconda DataSpell is the recommended program to run the files in this repository.
    
+## Sample Outputs
+
+Financial:
+
+![Random Forest of an Option Contract](/sample_outputs/financial/RandomForest1.PNG)
       
 The above folders are initial starting points, other subdirectories that will most likely emerge will be input/output paths.
 
