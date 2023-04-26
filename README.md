@@ -21,6 +21,7 @@ To relieve websocket backpressure in this project Javascript is recommended to r
 
 Financial:
 
+![Galton Probability Board](/sample_outputs/financial/GaltonBoard.png)
 ![Random Forest of an Option Contract](/sample_outputs/financial/RandomForest1.PNG)
 ![Option Pricing Model B](/sample_outputs/financial/ChatGPT-options-price-modeling2.png)
 ![Efficient Frontier and the Tangency Portfolio](/sample_outputs/financial/1stAprilTangencyPortfolio.png)
