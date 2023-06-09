@@ -26,7 +26,7 @@ class QiskitCircuitModuleException(Exception):
 
 
 class QiskitCircuitModule:
-    def __init__(self, qubits=3, instructions=None, execute_on_IBMQ=False, shots=10):
+    def __init__(self, qubits=1, instructions=None, execute_on_IBMQ=False, shots=10):
         self.qubit_num = qubits
         self.instructions = instructions
         if not self.instructions:
@@ -242,7 +242,7 @@ class VQNNModel(tf.keras.Model):
         super(VQNNModel, self).__init__(name='VQNN')
 
         self.driver_layer = tf.keras.layers.Dense(3, activation='relu')
-        self.quantum_layer = QuantumLayer(2, execute_on_IBMQ=False, use_parameter_shift_gradient_flow=False)
+        self.quantum_layer = QuantumLayer(1, execute_on_IBMQ=False, use_parameter_shift_gradient_flow=False)
         self.output_layer = tf.keras.layers.Dense(1)
 
     def call(self, input_tensor):
