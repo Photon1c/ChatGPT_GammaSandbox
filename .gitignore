@@ -27,6 +27,8 @@ config.py
 in_pdf.pdf
 out_pdf.pdf
 in_pdf2.pdf
+*.pynb
+*.ipynb_checkpoints
 .DS_Store
 .env.local
 .env.development.local
